@@ -1,4 +1,4 @@
-# Aves Ark Capstone Fall 2023
+# Aves Ark 
 
 ## By: Rose Mikan
 
@@ -7,7 +7,7 @@
 
 > [Aves Ark Videos](https://www.youtube.com/@avesark)
 
-> > [Demo reel for Aves Ark Capstone Project](https://youtu.be/Z9vFpsifWTU)
+> [Demo reel for Aves Ark Capstone Project](https://youtu.be/Z9vFpsifWTU)
 
 > [Link to Project in E599 F23](https://framer.com/projects/avesark--mul8yCWtLm11RA7McgLR)
 
