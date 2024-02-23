@@ -4,7 +4,10 @@
 
 > The project is a combination of digital records about Connecticut birds including narrative videos and short clip videos from original footage I recorded with digital cameras on location in Connecticut from March through November 2023; Taxonomy; Data Vizualizations from public datasets as well as combined datasets with additional specifics for each species; and space for additional pages of information about birds developed into a website entitled avesark with the intention of hosting future development from DNS: avesark.org, avesark.com and avesark.net which I secured earlier this year.  
 
-> [Demo reel for Aves Ark Capstone Project](https://youtu.be/Z9vFpsifWTU)
+
+> [Aves Ark Videos](https://www.youtube.com/@avesark)
+
+> > [Demo reel for Aves Ark Capstone Project](https://youtu.be/Z9vFpsifWTU)
 
 > [Link to Project in E599 F23](https://framer.com/projects/avesark--mul8yCWtLm11RA7McgLR)
 
